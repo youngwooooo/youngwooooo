@@ -5,10 +5,12 @@
 저의 Github에 오신걸 환영합니다!
 Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니다.
 
-## Tech Stack
+## Tech Stack & Tool
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SPRING&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SPRINGBOOT&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" />&nbsp;
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=ORACLE&logoColor=white" />&nbsp;
 
@@ -18,6 +20,12 @@ Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니�
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=BOOTSTRAP&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=THYMELEAF&logoColor=white" />&nbsp;
+
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />&nbsp;
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white" />&nbsp;
 
 
 
