@@ -5,7 +5,7 @@ Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니�
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Vimeo&logoColor=white">
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white">
 
 
 ## Project
