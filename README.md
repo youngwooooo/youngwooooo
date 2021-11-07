@@ -2,9 +2,9 @@
 
 ## 안녕하세요, 이영우입니다!👋
 
-저의 Github에 오신걸 환영합니다!
+저의 Github에 오신걸 환영합니다!<br>
 Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니다.
-
+<br><br><br>
 
 
 ## Tech Stack & Tool
@@ -28,7 +28,7 @@ Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니�
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white" />&nbsp;
-
+<br><br><br>
 
 
 ## Project
