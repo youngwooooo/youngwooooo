@@ -36,6 +36,6 @@ Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니�
 | Title | Date | Content |
 | ------ | ------ | ------ |
 | MS OFFICE | 2021. 09 ~ 2021. 10 | https://github.com/youngwooooo/MS-OFFICE |
-| Mini Delivery | 2021. 09 ~ | https://github.com/youngwooooo/MiniDeliveryProject |
+| Mini Delivery | 2021. 07 ~ | https://github.com/youngwooooo/MiniDeliveryProject |
 | BOX OFFICE | 2021. 06 | https://github.com/youngwooooo/BOXOFFICE |
 | ONLINE BOOKSTROE | 2021. 04 | https://github.com/youngwooooo/Online-Bookstore |
