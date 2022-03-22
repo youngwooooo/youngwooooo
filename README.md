@@ -20,6 +20,7 @@ Java/Spring Web Back-End 개발자가 되기 위해 열심히 공부 중 입니�
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=ORACLE&logoColor=white" />&nbsp;
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white" />&nbsp;
+
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=JQUERY&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
